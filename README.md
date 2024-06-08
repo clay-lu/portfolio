@@ -7,3 +7,5 @@ Master of Science
 Supply Chain Intern
 
 Investment Research Analyst Intern
+
+### Projects
