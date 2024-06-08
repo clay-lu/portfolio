@@ -9,3 +9,4 @@ Supply Chain Intern
 Investment Research Analyst Intern
 
 ### Projects
+Johns Hopkins
