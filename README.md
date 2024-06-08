@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R, VBA, AWS, Tableau, EXCEL
 
 ## Education
-- M.S., Business Analytics and Risk Management	| Johns Hopkins Carey Business School (_July 2024_)	 			        		
+- M.S., Business Analytics and Risk Management	\ Johns Hopkins Carey Business School (_July 2024_)	 			        		
 - B.S., Economics & Business Information System | Lehigh University (_May 2019_)
 
 ## Work Experience
