@@ -23,10 +23,3 @@ AIDVP (_June 2022 - August 2022_)**
 
 This project aims to predict body fat percentage using various regression techniques including Multiple Linear Regression, LASSO Regression, Ridge Regression, Elastic Net Regression, and other machine learning algorithms. The dataset comprises physical measurements and body composition metrics. After extensive data preprocessing and model evaluation, the Random Forest Regressor demonstrated the best performance with a Mean Squared Error (MSE) of 0.488 and an R-squared value of 0.7655. These findings suggest that ensemble methods are effective in predicting body fat percentage, offering valuable insights for health and fitness assessments.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://xxx)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study]
-
