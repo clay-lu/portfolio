@@ -1,5 +1,6 @@
 # Prospective Analyst
-![Headshot of Clay (Pengfei) Lu](IMG_5636.JPG){:width="200px"}
+
+
 #### Technical Skills: Python, SQL, R, VBA, AWS, Tableau, EXCEL
 
 ## Education
