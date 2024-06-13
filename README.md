@@ -25,7 +25,7 @@ AIDVP (_June 2022 - August 2022_)**
 This project aims to predict body fat percentage using various regression techniques including Multiple Linear Regression, LASSO Regression, Ridge Regression, Elastic Net Regression, and other machine learning algorithms. The dataset comprises physical measurements and body composition metrics. After extensive data preprocessing and model evaluation, the Random Forest Regressor demonstrated the best performance with a Mean Squared Error (MSE) of 0.488 and an R-squared value of 0.7655. These findings suggest that ensemble methods are effective in predicting body fat percentage, offering valuable insights for health and fitness assessments.
 
 ### Home Loan Prediction
-[Home Loan Prediction](D.S Final Project R Markdown-finalversion.Rmd)
+[Home Loan Prediction]([D.S Final Project R Markdown-finalversion.Rmd](https://github.com/clay-lu/portfolio/blob/766fa72ccd0c68f94816569f4ae14c886be2ea26/D.S%20Final%20Project%20R%20Markdown-finalversion.Rmd))
 
 The high default rates on home loans have several negative consequences nowadays. First, when borrowers default on their loans, the company incurs direct financial losses. These losses include the unpaid principal and interest, as well as costs associated with foreclosure and property management. Second, a high default rate increases the overall risk exposure of the company. This can lead to higher capital requirements and a need for more robust risk management strategies, which can be costly and resource-intensive. Third, consistently high default rates can damage the company’s reputation in the market. Customers may lose confidence in the company’s ability to manage loans effectively, which leads to a decline in new loan applications and customer retention.
 
