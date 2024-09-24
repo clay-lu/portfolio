@@ -5,9 +5,9 @@
 
 ## Education
 - Johns Hopkins Carey Business School (_August 2024_) \
-  M.S., Business Analytics and Risk Management         		
+  M.S. Business Analytics and Risk Management         		
 - Lehigh University (_May 2023_) \
-  B.S., Economics & Business Information System
+  B.S. Economics & Business Information System \
   Undergraduate Business Analytics Certificate
 
 ## Work Experience
