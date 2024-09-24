@@ -1,13 +1,14 @@
-# Prospective Analyst
+# Analyst
 
 
-#### Technical Skills: Python, SQL, R, VBA, AWS, Tableau, EXCEL
+#### Technical Skills: Python, SQL, R, VBA, AWS, Tableau, Power BI, EXCEL
 
 ## Education
-- Johns Hopkins Carey Business School (_July 2024_) \
+- Johns Hopkins Carey Business School (_August 2024_) \
   M.S., Business Analytics and Risk Management         		
-- Lehigh University (_May 2019_) \
+- Lehigh University (_May 2023_) \
   B.S., Economics & Business Information System
+  Undergraduate Business Analytics Certificate
 
 ## Work Experience
 **Supply Chain Analyst Intern @ \
